@@ -41,29 +41,29 @@
 
 - [Transformer](/code/16-Transformer.ipynb)🍦  
 
-- [凸优化]()🍦    
+- 凸优化  
 
 - 梯度下降  
 
 - 优化算法进阶  
 
-- 数据增强  
+- [数据增强](/code/20-数据增强.ipynb)🍦  
 
-- 模型微调  
+- [模型微调/迁移学习](/code/21-模型微调.ipynb)🍦      
 
 - 目标检测基础  
 
 - 图像风格迁移  
 
-- 图像分类案例1  
+- [图像分类案例1](/code/24-图像分类案例1.ipynb)🍦  
 
-- 图像分类案例2  
+- [图像分类案例2](/code/25-图像分类案例2.ipynb)🍦  
 
-- [word2vec](/code/26-word2vec.ipynb)  
+- [word2vec](/code/26-word2vec.ipynb)🍦     
 
-- [词嵌入进阶](/code/27-词嵌入进阶.ipynb)  
+- [词嵌入进阶](/code/27-词嵌入进阶.ipynb)🍦  
 
-- [文本分类](/code/28-文本分类.ipynb)  
+- [文本分类](/code/28-文本分类.ipynb)🍦  
 
 - GAN  
 
