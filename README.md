@@ -7,9 +7,22 @@
 
 **Star⭐ me if you find useful🤣**    
 
-## 结营证书
+## 结营证书 & 优秀学习者证书🎓
 
-<img src="/结营证书.jpg" style="zoom:40%;" />
+<img src="/结营证书.jpg" style="zoom:25%;" />
+
+<img src="优秀学习者证书.jpg" style="zoom: 25%;" />
+
+## 从Kesci平台下载数据集
+
+```python
+import os
+cp_str = 'cp -r /home/kesci/input/nltk_data3784/nltk_data /home/kesci/work'
+os.system(cp_str)
+tar_str = 'tar czvf /home/kesci/work/nltk_data.tar /home/kesci/work/nltk_data'
+os.system(tar_str)
+print('finish')
+```
 
 ## 学习内容与进度
 
